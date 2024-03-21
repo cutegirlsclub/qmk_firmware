@@ -43,7 +43,13 @@
             "solid_reactive_multiwide": true,
             "solid_reactive_multinexus": true,
             "splash": true,
-            "solid_splash": true
+            "solid_splash": true,
+            "starlight": true,
+            "starlight_dual_hue": true,
+            "starlight_dual_sat": true,
+            "riverflow": true,
+            "raindrops": true,
+            "flower_blooming": true
         }
     },
     "matrix_pins": {
